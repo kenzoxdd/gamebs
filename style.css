@@ -1,0 +1,7 @@
+h3{
+	color:white;
+}
+body{
+	background-repeat: no-repeat;
+	background-attachment: fixed; /* Фиксируем фон веб-страницы */
+}
